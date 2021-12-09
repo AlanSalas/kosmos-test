@@ -1,0 +1,28 @@
+{
+  "fields": [
+    {
+      "_uid": "5b9b79d2-32f2-42a1-b89f-203dfc0b6b98",
+      "component": "text",
+      "label": "First Name",
+      "type": "text"
+    },
+    {
+      "_uid": "6eff3638-80a7-4427-b07b-4c1be1c6b188",
+      "component": "select",
+      "label": "Select an option",
+      "type": "select",
+      "options": [{ "name": "Option 1" }, { "name": "Option 2" }, { "name": "Option 3" }]
+    },
+    {
+      "_uid": "6eff3638-80a7-4427-b07b-4c1be1c6b189",
+      "component": "radio",
+      "label": "Select an option",
+      "type": "radio",
+      "options": [
+        { "name": "Option 1", "value": "option-1" },
+        { "name": "Option 2", "value": "option-2" },
+        { "name": "Option 3", "value": "option-3" }
+      ]
+    }
+  ]
+}
